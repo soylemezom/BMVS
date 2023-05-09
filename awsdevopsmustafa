@@ -1,1 +1,6 @@
+Exploratory testing
+The more features and improvements go into your code, the more you'll need to test to make sure that all your system works properly. And then for each bug you fix, it would be wise to check that they don't get back in newer releases. Automation is key to make this possible and writing tests sooner or later will become part of your development workflow.
 
+So the question is whether it is still worth doing manual testing? The short answer is yes and it might be best to perform exploratory testing to uncover non-obvious errors.
+
+An exploratory testing session should not exceed two hours and should have a clear scope to help testers focus on a specific area of the software. Once all testers have been briefed, various actions should be used to check how the system behaves. 
