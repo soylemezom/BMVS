@@ -1,1 +1,4 @@
+How to automate your tests
+To automate your tests, you will first need to write them programmatically using a testing framework that suits your application. PHPUnit, Mocha, RSpec are examples of testing frameworks that you can use for PHP, Javascript, and Ruby respectively. There are many options out there for each language so you might have to do some research and ask developer communities to find out what would be the best framework for you.
 
+When your tests can be executed via script from your terminal, you can have them be automatically executed by a continuous integration server like Bamboo or use a cloud service like Bitbucket Pipelines. These tools will monitor your repositories and execute your test suite whenever new changes are pushed to the main repository.
